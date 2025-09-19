@@ -1,4 +1,4 @@
-# В круге Синаспейса / In the Circle of Synaspace
+# В круге Синаспейса / Within the Circle of Synaspace
 
 **Автор / Author:** Михаил Захаров / Mikhail Zakharov  
 **Жанр / Genre:** Киберпанк / Антиутопия / Когнитивная реальность / Cyberpunk / Dystopia / Cognitive Reality  
