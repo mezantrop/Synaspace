@@ -1,7 +1,7 @@
 # В круге Синаспейса / Within the Circle of Synaspace
 
 <p align="center">
-  <img src="images/synaspace_cover.png" alt="Обложка повести В круге Синаспейса" width="700">
+  <img src="cover.png" alt="Обложка повести В круге Синаспейса" width="700">
 </p>
 
 **Автор / Author:** Михаил Захаров / Mikhail Zakharov  
