@@ -20,3 +20,12 @@ Ama Zy, a young employee of the Inteqra corporation, every day balances between 
 ---
 
 Если вы хотите окунуться в необычный мир когнитивной реальности, исследовать тонкие грани свободы и контроля, этот текст — для вас.
+
+Disclaimer / Дисклеймер:
+All names, characters, organizations, brands, events, and concepts depicted in the Synaspace project are fictional.
+Any resemblance to real persons, living or dead, or to actual companies or institutions is purely coincidental.
+This work is a piece of fiction and does not intend to represent, reference, or be affiliated with any real-world entity.
+
+Все имена, персонажи, организации, бренды, события и концепции, используемые в проекте «Синаспейс», являются вымышленными.
+Любые совпадения с реальными людьми (живыми или умершими), компаниями или организациями являются случайными.
+Произведение носит исключительно художественный характер и не имеет отношения к каким-либо реальным субъектам.
