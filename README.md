@@ -9,13 +9,17 @@
 **Язык / Language:** Русский / Russian / English translation
 
 ---
-Welcome to the world of Synaspace — a digital environment for cognitive interaction, where the boundaries between reality, virtuality, and inner perception are blurred.
+In the near future, where reality merges with the digital space of Synaspace and human perception is governed by a neural interface, everyday life has become a perfectly synchronized process. Society functions efficiently, harmoniously — and seemingly without flaws.
 
-Ama Zy, a young employee of the Inteqra corporation, every day balances between the familiar rhythm of Synaspace and the unexpected challenges of a fisit — a real, physical presence in the offline world. Through the lens of daily work, corporate rituals, and neurointerfaces, we observe the emergence of a new cognitive era: management of attention, standardized harmony of thought, and social reputation have become more important than traditional notions of freedom and privacy.
+One ordinary morning, a single workday, and one evening gradually reveal subtle cracks in a system that governs not only behavior, but thought itself. What remains of a human being in a world where knowledge is replaced by skills, rules, and optimized patterns?
 
-Добро пожаловать в мир Синаспейса — цифровой среды когнитивного взаимодействия, где границы между реальностью, виртуальностью и внутренним восприятием стерты.  
+In the Circle of Synaspace is a short dystopian story about control, adaptation, and the quiet disintegration of reality — one that may not be as distant as it seems.
 
-Ама Зи, молодой сотрудник корпорации Inteqra, каждый день балансирует между привычным ритмом Синаспейса и неожиданными вызовами физита — реального присутствия в оффлайн-мире. Через призму повседневной работы, корпоративных ритуалов и нейроинтерфейсов мы наблюдаем, как формируется новая когнитивная эра: управление вниманием, стандартная гармония мышления и социальная репутация стали важнее традиционных понятий свободы и приватности.
+В ближайшем будущем, где реальность переплетается с цифровым пространством Синаспейса, а человеческое восприятие управляется нейроинтерфейсом, повседневная жизнь превратилась в идеально синхронизированный процесс. Общество функционирует эффективно, гармонично — и, на первый взгляд, безупречно.
+
+Одно обычное утро, один рабочий день и один вечер постепенно обнажают тонкие трещины в системе, которая управляет не только поведением, но и мышлением. Что остаётся от человека в мире, где знания заменяются навыками, правилами и оптимизированными паттернами?
+
+«В круге Синаспейса» — короткая антиутопическая проза о контроле, адаптации и тихом распаде реальности, которая, возможно, не так далека, как кажется.
 
 ---
 
